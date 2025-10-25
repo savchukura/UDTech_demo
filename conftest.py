@@ -8,7 +8,7 @@ def browser() -> Generator[Browser, None, None]:
         "--window-size=1920,1080"
     ]
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, args=chrome_options)
+        browser = p.chromium.launch(headless=True, args=chrome_options)
         yield browser
         browser.close()
 
