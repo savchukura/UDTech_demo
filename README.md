@@ -41,7 +41,8 @@ Linux
 
 🧰 3. Run Tests:
 
-3.1for test running use:
+3.1 for test running use:
+
     pytest tests
 
 3.2 Or use Allure reporter:
