@@ -1,14 +1,9 @@
 # UDTech_demo
 Technikal task for UDTech
 
-Instruction for start testing:
+⚙️ Requirements
 
-python -m pip install --upgrade pip
+Python ≥ 3.12
+pip (Installed with Python)
+Git
 
-pip install playwright pytest pytest-playwright
-
-playwright install chromium
-
-pip install allure-pytest
-
-pip install requests
