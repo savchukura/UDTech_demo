@@ -18,6 +18,7 @@ Linux
 1. Clone Reposetory:
 
     git clone https://github.com/savchukura/UDTech_demo.git
+    
     cd UDTech_demo
 
 2. Install Deps:
